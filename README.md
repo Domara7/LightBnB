@@ -2,7 +2,7 @@ LightBnb is a unique and cool website that lets you book your next vacation easi
 
 This project mainly focused on buidling and showing our SQL skills and learning how to write proper queries.
 
-!['Home']('/docs/pic1.png')
-!['Create Listing']('/docs/pic2.png')
-!['Properties']('/docs/pic3.png')
-!['Search']('/docs/pic4.png')
+!['Home'](docs/pic1.png)
+!['Create Listing'](docs/pic2.png)
+!['Properties'](docs/pic3.png)
+!['Search'](docs/pic4.png)
