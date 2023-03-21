@@ -59,3 +59,11 @@ This project mainly focused on buidling and showing our SQL skills and learning 
   - `apiRoutes.js` and `userRoutes.js` are responsible for any HTTP requests to `/users/something` or `/api/something`.
   - `json` is a directory that contains a bunch of dummy data in `.json` files.
   - `database.js` is responsible for all queries to the database. It doesn't currently connect to any database, all it does is return data from `.json` files.
+
+## GETTING STARTED
+
+1. Create a new repository
+2. Clone this repository to your local device
+3. Install all the dependencies using npm install
+4.To run the app type npm run local
+5. Visit http://localhost:3000 in the browser to view the app
