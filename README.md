@@ -65,5 +65,5 @@ This project mainly focused on buidling and showing our SQL skills and learning 
 1. Create a new repository
 2. Clone this repository to your local device
 3. Install all the dependencies using npm install
-4.To run the app type npm run local
+4. To run the app type npm run local
 5. Visit http://localhost:3000 in the browser to view the app
